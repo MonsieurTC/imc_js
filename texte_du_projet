@@ -1,0 +1,30 @@
+PROJET : Calculateur d’IMC (Indice de Masse Corporel)
+
+Description
+
+Ce projet est un calculateur d’IMC simple qui permet à un utilisateur de saisir sa taille et son poids pour obtenir son IMC et une évaluation de sa condition physique.
+
+Objectif du projet
+
+Faire travailler le développeur sur le langage JavaScript.
+
+Utilisation
+
+L’utilisateur remplit les champs “taille” et “poids” puis valide en cliquant sur le bouton “calcul”.
+Les résultats apparaissent sur la même page, en dessous.
+
+Structure du projet
+
+imc-calculator/
+| – index.html
+| – css/
+| - | – style.css
+| – js/
+| - | – main.js
+| – README.md
+
+Explications
+
+	“index.htm”l : page principale de l’application.
+	“css/style.css” : style CSS pour la mise en forme.
+	“js/main.js” : logique JavaScript pour le calcul de l’IMC
